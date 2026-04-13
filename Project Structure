@@ -1,0 +1,5 @@
+com.example.anupcreation
+│
+├── MainActivity.kt
+├── activity_main.xml
+└── AndroidManifest.xml
